@@ -221,12 +221,17 @@ Prefab:
     - target: {fileID: 114690898460816156, guid: 2e91f42d94edbae4fa6cb1ec54cef2b7,
         type: 2}
       propertyPath: m_OfflineScene
-      value: Mainmenu
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 114690898460816156, guid: 2e91f42d94edbae4fa6cb1ec54cef2b7,
         type: 2}
       propertyPath: m_OnlineScene
       value: sphere_map_multi
+      objectReference: {fileID: 0}
+    - target: {fileID: 114690898460816156, guid: 2e91f42d94edbae4fa6cb1ec54cef2b7,
+        type: 2}
+      propertyPath: m_PlayerSpawnMethod
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e91f42d94edbae4fa6cb1ec54cef2b7, type: 2}

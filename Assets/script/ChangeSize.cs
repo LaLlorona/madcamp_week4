@@ -9,6 +9,7 @@ public class ChangeSize : NetworkBehaviour {
 
     public float speed;
     Vector3 temp;
+    public bool start; 
 
 	// Use this for initialization
 	void Start () {
